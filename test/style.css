@@ -1,0 +1,12 @@
+#maps{
+	display: flex;
+    flex-wrap: wrap;
+    
+}
+.map1{
+	display: flex;
+	flex-basis: 50%;
+}
+.map2{
+	flex-basis: 50%;
+}
